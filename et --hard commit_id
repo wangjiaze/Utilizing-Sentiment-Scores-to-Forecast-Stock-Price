@@ -1,0 +1,56 @@
+[33mcommit 5da20347afac24fa122e266ec72bbf8c9d62ee9e[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: jz <810@qq.com>
+Date:   Wed Apr 17 23:16:05 2024 -0700
+
+    Remove large file
+
+[33mcommit 14cba2799030c6f67a43217a1ecca4fa0eae99ec[m
+Author: jz <810@qq.com>
+Date:   Wed Apr 17 23:13:26 2024 -0700
+
+    Add FIN111K_selected.csv
+
+[33mcommit 436f7031d29ef171fb1494e0a7cc0ad1120753fa[m
+Author: jz <810@qq.com>
+Date:   Wed Apr 17 22:51:40 2024 -0700
+
+    Add large file with Git LFS
+
+[33mcommit 0eeb201ea1ea8079ae4483e117e85f9520907d9e[m
+Merge: f174fb1 3928aa2
+Author: jz <810@qq.com>
+Date:   Wed Apr 17 22:38:34 2024 -0700
+
+    Add model.safetensors
+
+[33mcommit f174fb1b94ca59c900ac1bd5fcf14f510a70acae[m
+Author: jz <810@qq.com>
+Date:   Wed Apr 17 22:32:33 2024 -0700
+
+    Your commit message
+
+[33mcommit 3928aa2171eeae09fd6f504953b3cd908c4e2415[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Hurricane <44252339+wangjiaze@users.noreply.github.com>
+Date:   Wed Apr 17 21:57:01 2024 -0700
+
+    Update README.md
+
+[33mcommit a27fd5305d2ebd3122f12bebfc348156b1e0f0f2[m
+Author: Hurricane <44252339+wangjiaze@users.noreply.github.com>
+Date:   Wed Apr 17 21:02:14 2024 -0700
+
+    Update README.md
+
+[33mcommit 7d7727cf420c6b9c6fdaa7ffb479e227011236a2[m
+Author: Hurricane <44252339+wangjiaze@users.noreply.github.com>
+Date:   Wed Apr 17 20:54:48 2024 -0700
+
+    Create README.md
+
+[33mcommit 0441749fdbb880aad2571eb798b9114d567a4de9[m
+Author: jz <810@qq.com>
+Date:   Wed Apr 17 20:53:19 2024 -0700
+
+    DASC5420 Theoretical Machine Learning
+    
+    DASC5420 Theoretical Machine Learning  Final Project
